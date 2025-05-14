@@ -5,6 +5,6 @@ CPE FR EL FINALS
 Git Repo: https://github.com/Phawn/NotePad_AndroidStudio
 
 Members: 
-Krystal Lim
-Paolo Angelo Porlas
+Krystal Lim,
+Paolo Angelo Porlas,
 Clint Abella
